@@ -1,1 +1,3 @@
 # yolov7_pose_estimation
+
+yolov7 has Deep Learning Pose Estimation, an advanced technique in computer vision that involves detecting and locating the human body in an image or video. It's a combination of computer vision, machine learning, and deep neural networks that enable systems to understand the human body's position and movements in real-time. This technology has numerous applications, including human-computer interaction, action recognition, gaming, and healthcare. With deep learning's recent advancements, the accuracy and speed of pose estimation have significantly improved, making it a valuable tool for various industries. in this project, I implemented on Military infantry to detect body's position and movements.
